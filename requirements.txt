@@ -1,0 +1,5 @@
+langchain-core>=1,<2
+langchain-openai>=1,<2
+langchain-anthropic>=1,<2
+pydantic>=2.10,<3
+python-dotenv>=1,<2
